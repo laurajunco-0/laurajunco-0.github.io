@@ -67,23 +67,13 @@ main {
 .opcion input{
     border-radius: 10px;
 }
-@media (min-width:300px) and (max-width:1800px){
-    .opcion{
-        flex:50%;
-        max-width:50%;
-    }
-}
-@media (min-width:300px) and (max-width:2000px){
+@media (min-width: 400px) and (max-width: 1200px){
     .caja{
-        flex:200%;
-        max-width:200%;
-    }  
-}
-@media (min-width:30px) and (max-width:200px){
-    .container{
+        flex: 100%;
+        max-width: 100%; 
+    }
+    .opcion{
         flex: 50%;
         max-width: 50%;
     }
-    
 }
-
