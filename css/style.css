@@ -1,0 +1,30 @@
+*{
+    padding: 1px;
+    margin: 0;
+}
+header{
+    background-color: #4c704a;
+}
+h1{
+    background-color: #699966;
+    color: white;
+}
+a{
+    text-decoration-line: none;
+    color: white;
+}
+body{
+    background-image: url('../img/bosque\ \(1\).jpeg');
+    background-repeat: no-repeat;
+}
+h2{
+    padding: 15px;
+}
+.login{
+    color: white;
+    border: 3px solid #354e34;
+    background-color: #4c704a;
+    width: 300px;
+    height: 200px;
+    margin-top: 150px;
+}

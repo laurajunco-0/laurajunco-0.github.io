@@ -1,0 +1,24 @@
+*{
+    padding: 1px;
+    margin: 0;
+}
+header{
+    background-color: #557e53;
+}
+h1{
+    background-color: #699966;
+    color: white;
+}
+body{
+    background-image: url('../img/bosque\ \(1\).jpeg');
+    background-repeat: no-repeat;
+}
+.registro{
+        color: white;
+        border: 3px solid #354e34;
+        background-color: #4c704a;
+        width: 300px;
+        height: 180px;
+        margin-top: 168px;
+        padding: 15px;
+}
